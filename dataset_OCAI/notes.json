@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "oc_buou_den"
+    },
+    {
+      "id": 1,
+      "name": "oc_buou_vang"
+    },
+    {
+      "id": 2,
+      "name": "trung_oc_buou_den"
+    },
+    {
+      "id": 3,
+      "name": "trung_oc_buou_vang"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
